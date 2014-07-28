@@ -1,0 +1,22 @@
+This file will be used to keep the creators of Towerbound up-to-date as to the project's status without having to understand a programming language or such.
+
+Queries:
+	Should named hybrids (i.e. Centaur, Naga) be classified as hybrids or a unique species?
+Missing data:
+	CRITICAL DATA GAP: No data for Jadebot. Like, at all.
+	MINOR CONTRADICTION: thetiniestcancer stated in tags that Tavros was stuck inside Vriska's scepter, but later character lists refuted this claim.
+		POSSIBLE SOLUTIONS:
+			Straight override of old data
+			themegamaryam suggests a cloning as a possible reason (Sources/primarySources.txt, Fanmail A)
+Ideas:
+	Add a relevant quote to each character's page? (see "quotes" branch)
+	"Go back" button might need to be smaller?
+	Variable table colours based on the character?
+To-do:
+	Re-order character page so that the info table appears to the right of the descriptive text
+	Try an anti-aliased "go back" button
+	Change "go back" button to "up one step" button to better reflect actual functionality
+	Create pages for all characters
+	Create and organize other main two menus and sub-menus (waaaaay down the line here)
+	Procure a clean version of the world map from themegamaryam
+	Organize my local files (wow they are all over the place god damn)
