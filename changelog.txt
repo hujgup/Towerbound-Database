@@ -1,0 +1,14 @@
+This file only documents versions pushed to Google Drive. Internal commits are not defined.
+
+0.1.1:
+	Added "Age" table heading to all existing character pages.
+	Added GUI element: back button (design very much subject to change, what do you think?).
+	Added section for works character has appeared in.
+	Added the A2 trolls Aradia through Terezi inclusive.
+	Added Aradiabot.
+	Modified the a hrefs in Karkat's page to actually link to places when the target is a character.
+	Fixed spelling mistakes.
+	Fixed bug where external links would open inside the iframe.
+
+0.1.0:
+	Initial release
