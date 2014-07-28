@@ -1,0 +1,874 @@
+This is the file I keep all the unsorted data in. Don't expect anything as user-friendly as the web interface.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seriously, you shouldn't read this. It will make your brain hurt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been warned.
+
+
+
+
+
+
+Origin:
+	Anon ask sent to TTC (originated from megamayram): http://thetiniestcancer.tumblr.com/post/80710093397/fantasy-au-where-karkat-is-a-damsel-stuck-in-a-tower
+	Source: http://thetiniestcancer.tumblr.com/post/87531443795/hey-how-did-you-start-become-consistent-with
+Note:
+	Anything that has not been specified as having changed is assumed to be equivelant to HS canon at initial conditions.
+
+Character data:
+	Pantheon:
+		Alpha Rose:
+			Title: Goddess of Darkness, The Dark Goddess, Humanity and the Unknown
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Image: http://thetiniestcancer.tumblr.com/post/89077141955/could-you-draw-towerbound-alpha-rose-the-one
+			Created the universe, the framework by which things may exist, along with Darkleer
+			Created humanity along with the Dolorasa. Humanity knew all that trolls did, but could not farm
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://thetiniestcancer.tumblr.com/post/90488299465/the-goddess-of-harvest
+		Alpha Jade:
+			Title: Goddess of Hunting and the Harvest
+			Title origin: [Undocumented]
+			Species: 100% Ethereal
+			Was once a mortal in humanity's infancy
+			When she was mortal, she gave humanity the ability to cultivate crops
+			Ascended to the pantheon following being hit by the infusion of magic into the world
+			Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://thetiniestcancer.tumblr.com/post/90488299465/the-goddess-of-harvest
+		The Handmaid:
+			Title: Goddess of Magic and Fire
+			Title origin: [Undocumented]
+			Species: 100% Ethereal
+			Crated the force of magic along with the Psiioniic
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		The Summoner:
+			Title: Goddess of Air and Change
+			Title origin: [Undocumented]
+			Species: 100% Ethereal
+			Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		The Psiioniic:
+			Title: God of Knowledge and Magic
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Gave trolls intelligence
+			Created the force of magic along with the Handmaid
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		The Signless:
+			Title: God of Kindness and Compassion
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Gave trolls souls and emotion along with the Disciple
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		The Disciple:
+			Title: Goddess of Love, Art and the Hunt
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Gave trolls souls and emotion along with the Signless
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Dolorasa:
+			Title: Goddess of Light, Life, Beauty and Motherhood
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Created stars along with Mindfang
+			Created life from her blood, thus transforming into the Goddess of Life
+			Created trolls
+			Later, created humanity along with Alpha Rose. Humanity knew all that trolls did, but could not farm
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://thetiniestcancer.tumblr.com/post/90488299465/the-goddess-of-harvest
+		Redglare:
+			Title: Goddess of Law and Retribution
+			Title origin: [Undocumented]
+			Species: 100% Ethereal
+			Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Mindfang:
+			Title: Goddess of Light and Guile
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Created stars along with the Dolorasa
+			Later became the Goddess of Guile
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Darkleer:
+			Title: God of Void and Silence
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Created the universe, the framework by which things may exist, along with Alpha Rose
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Grand Highblood:
+			Title: God of Blood and Strife
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Split the troll race into the twelve colours (hemospectrum)
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Dualscar:
+			Title: God of Oceans and Warfare
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Created water and ice to cover planets along with the Condesce
+			Later became the God of Warfare
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		The Condesce (Pantheon):
+			Title: Goddess of Water and Domination
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Created water and ice to cover planets along with the Condesce
+			Later became the goddess of domination
+			Unknown if related to the Condesce, the royal queen.
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Calliope:
+			Title: Primordial Goddess of Benevolence, Space, Virtue and Death
+			Title origin: themegamaryam
+			Species: 100% Ethereal
+			Created planets and nebulae
+			Contradicts with Calliope (alt)
+			Sources: http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+		Caliborn:
+			Title: Primordial God of Death, Ego, Vengeance and Animosity
+			Title origin: [Undocumented]
+			Species: 100% Ethereal
+			Contradicts with Caliborn (alt)
+			Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list\
+
+	John Egbert:
+		Title: Heir to the Egbert House
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Youngest child of the household
+		Brought up in a posh environment
+		Crocker family is a side-branch and subservient to the Egberts
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83675568879/also-wasnt-damara-a-succubus-and-john-a-royal-heir, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/91916458701/anything-you-can-tell-us-about-towerbound-john
+	Rose Lalonde:
+		Title: Prophetess, Seer of the Dark Goddess
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Dave Strider:
+		Title: "Legendary" Knight
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Isn't actually very good at being a knight
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Jade Harley:
+		Title: Ex-Mage, Druid
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Jane Crocker:
+		Title: Travelling Gourmet
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Uses alchemy to enhance their food
+		Used to be subservient to the Egberts, but was granted independence
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/91916458701/anything-you-can-tell-us-about-towerbound-john, http://themegamaryam.tumblr.com/post/92270368186/what-is-towerbound-jane-like-could-i-rp-as-her-for
+	Roxy Lalonde:
+		Title: Travelling Bard
+		Title origin: [Undocumented]
+		Species: 100% Human Demigod
+		Dabbles in magicks (magic)
+		Demigod, daughter of the Dark Goddess
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Dirk Strider:
+		Title: Knight Commander
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Jake English:
+		Title: Wandering Ranger
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Doesn't actually range very far away from a specific forest village
+		Acts as a guard against beasts
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92163150141/whats-towerbound-jake-like
+	All Makaras/Peixes besides Feferi:
+		All siblings
+		Females are basically immortal
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://themegamaryam.tumblr.com/post/92513844896/it-has-been-stated-in-the-past-that-feferi-has-no
+	The Handmaid (mortal):
+		Title: Fire Elemental
+		Title origin: [Undocumented]
+		Species: 100% Elememtal
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Summoner (mortal):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Lead a revolution
+		Abandoned the movement following his subordinates committing acts he disagreed with
+		Currently acts as a Robin Hood equivelant
+		Source: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Psiioniic (mortal):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Was a scientist in ancient times
+		Experimented with magic
+		Pioneered astrology, engineering and biological fusion
+		Created Carapaces and the Bovus
+		Invented the technique used to create Dragonrezi
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Signess (mortal):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Karkat's biological father
+		Leader of a small village (name undefined)
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Disciple (mortal):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Karkat's biological mother
+		Was a master huntress in her prime
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Dolorasa (mortal):
+		Title: Mother of all Vampires, The First Jadeblood
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Modifiers: Vampire
+		Was the first Jadeblood and the first vampire
+		Was created by the Goddess of Life directly
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Neophyte Redglare (mortal):
+		Title: Former Supreme Justice
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Used to be a bounty hunter
+		Never returned following giving chase to Mindfang (mortal)
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Mindfang (mortal):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Once was the most powerful crime lord/sorceress in the known world
+		Dissapeared at the same time as Redglare
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Executor Darkleer (mortal):
+		Title: Colossus
+		Title origin: sizeshenanigans
+		Species: [Undefined]
+		Image: http://thetiniestcancer.tumblr.com/post/87138972265/twisted-art-wounders-darn-it-all
+		Powered by void, has a black hole for a heart
+		Sources: http://thetiniestcancer.tumblr.com/post/83675755062/dunno-if-it-will-fit-with-the-theme-of-everything-but, http://thetiniestcancer.tumblr.com/post/83675842193/darkleer-is-just-a-weird-enigma-thing-like-a, http://thetiniestcancer.tumblr.com/post/86654648035/top-five-towerbound-characters-you-like-the-best-as-in, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Grand Highblood (mortal):
+		Title: King
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Is Karkat's parental figure
+		Is generally considered to be a bit of a douche
+		Sources: http://thetiniestcancer.tumblr.com/post/80722747131/you-may-now-conveniently-find-that-au-tagged-as, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Dualscar (mortal):
+		Title: Supreme General, Supreme Commander
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Power-hungry
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Condesce (mortal):
+		Title: Queen
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Is Karkat's parental figure
+		Is less of a douche and more of a terrible person
+		She wields the power in the monarchy
+		Will give her heirs domain over different kingdoms to preclude any potential murder
+		Sources: http://thetiniestcancer.tumblr.com/post/80722747131/you-may-now-conveniently-find-that-au-tagged-as, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92001515016/does-the-hemospectrum-exist-in-towerbound
+	Damara Megido:
+		Title: Succubus
+		Title origin: Anon
+		Species: 100% Troll
+		Height: Variable by number of intaken souls (one inch minimum)
+		Skin is tinted marroon, irises are also marroon
+		Has a short, skin-covered marroon tail
+		Can summon red wings
+		Has vampiric fangs, but not a vampire
+		Sold her soul to Caliborn
+		Now serves Caliborn
+		Sows the seeds of chaos wherever she travels
+		Greatly enjoys her job
+		Sources: http://thetiniestcancer.tumblr.com/post/81245160193/towerbound-damara-could-be-a-succubus, http://thetiniestcancer.tumblr.com/post/83675568879/also-wasnt-damara-a-succubus-and-john-a-royal-heir, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92347730561/does-damara-look-any-different-as-a-result-of-being
+	Rufioh Nitram:
+		Title: Wind-Spirit Fairy
+		Title origin: [Undocumented]
+		Species: Fairy, Troll, (percentages unknown)
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Kankri Vantas:
+		Title: Seer of the Signless
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Preaches somewhat zealously
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Meulin Leijon:
+		Title: Giant Catgirl
+		Title origin: Anon
+		Species: 50% Cat, 50% Troll
+		Height: 40ft
+		First word spoken: "I"
+		Has olive fur covering her naughty bits, her hands and her legs
+		Has a blue tail
+		Lives in the largest forest on the planet, north of the Troll kingdom
+		Posesses unusual strength for her size (can take down opponents 20x larger)
+		Is very fast
+		Predator: Toys with her prey
+		Considers sentient entities as valid prey
+		Unrelated to the Disciple
+		Sources: http://thetiniestcancer.tumblr.com/post/83667916435/what-if-towerbound-horuss-was-a-steampunker-and-meulin, http://themegamaryam.tumblr.com/post/92008341991/tell-us-about-giant-cat-girl-meulin-3-would-she-and, http://themegamaryam.tumblr.com/post/92009609366/towerbound-nepeta-i-feel-like-i-should-know-stuff, http://themegamaryam.tumblr.com/post/92161776146/what-does-towerbound-meulin-look-like, http://themegamaryam.tumblr.com/post/92188793481/prompt-tower-bound-meulin-goes-on-a-hunt-for
+	Porrim Maryam:
+		Title: Empress of Ramaya
+		Title origin: [Undocumebted]
+		Species: 100% Troll
+		Modifiers: Vampire
+		Rules over a kingdom of outcasts and the undead
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Latula Pyrope:
+		Title: Ex-Knight, Ex-Soldier, Mercenary
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		First word spoken: "H3" (possible misspelling of "H3y")
+		Image: http://thetiniestcancer.tumblr.com/post/90506936810/twisted-art-wounders-someone-asked-for-al-3-of
+		Uses a sharpened rideable skateboard to slay foes
+		Became a mercenary following knighthood
+		Sources: http://thetiniestcancer.tumblr.com/post/80722747131/you-may-now-conveniently-find-that-au-tagged-as, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/81236345968/imagine-knight-latula-using-a-sharpened-iron, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/88815673095/her-duchess-vampiric
+	Aranea Serket:
+		Title: Pirate Sorceress
+		Title origin: themegamaryam
+		Species: 100% Troll
+		Pirate ship can fly over any terrain
+		Ship is less of a ship and more of a castle
+		Not as insane as Vriska, but just as evil
+		Source: http://thetiniestcancer.tumblr.com/post/87842808620/towerbound-idea-aranea-is-vriskas-less-insane-but, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Horuss Zahhak:
+		Title: [Undefined]
+		Title origin: Anon
+		Species: 50% Horse, 50% Troll (Centaur)
+		Image: http://thetiniestcancer.tumblr.com/post/87244446510/twisted-art-wounders-8-d-you-are-pretty-to
+		First word spoken: "Please"
+		Lives in forests
+		Prefers to stay away from humans
+		Had an "incident" with some poachers
+		Keeps a shrunken vilage inside a glass container to protect them
+		Sources: http://thetiniestcancer.tumblr.com/post/81332079426/towerbound-horuss-could-be-a-centaur, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/92009091246/does-towerbound-horuss-like-humans-or-does-he-prefer, http://thetitaniczahhak.tumblr.com/post/90055187567/prompt-towerbound-horuss-stumbles-across-a-village
+	Kurloz Makara:
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Quiet prince of the royal household
+		Has been able to tap into the latent energy implanted into him by Karkat
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92165945321/so-how-about-meenah-i-think-shes-still-pretty-much
+	Cronus Ampora:
+		Title: Siren
+		Title origin: [Undocumented]
+		Species: 100% Siren
+		Attractive, but singing is so terrible he's never been able to ensnare anyone
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Meenah Peixes:
+		Title: Heir to the Throne, Princess
+		Title origin: [Undocumented]
+		Species: 100% Troll
+		Power-hungry, but generally more agreeable then her siblings
+		Eldest of the royal children
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92165945321/so-how-about-meenah-i-think-shes-still-pretty-much
+	Aradia Megido:
+		Title: Talking Ram
+		Title origin: [Undocumented]
+		Species: Ram, pseudo-Troll (percentages undefined)
+		Prior species: 100% Banshee
+		First word spoken: "But"
+		Image: http://thetiniestcancer.tumblr.com/post/84261131240/twisted-art-wounders-i-told-thetiniestcancer-i
+		Used the guise of a troll as a disguise prior to being transformed
+		Despite her species, she has a kind demeanor
+		Was turned into a ram by Eridan
+		Sources: http://thetiniestcancer.tumblr.com/post/81092965028/read-up-properly-on-the-suggestions-for-the-knight-and, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/83859615761/self-serving-towerbound-prompt-shrekquius-and-aradia, http://themegamaryam.tumblr.com/post/92098848521/we-have-seen-shrekquius-and-ram-but-shrekquius-and
+	Aradiabot:
+		Title: [undefined]
+		Title origin: Anon
+		Species: 100% Mechanized Construct
+		Is a giant, magic-powered robot
+		Sources: http://thetiniestcancer.tumblr.com/post/87531700785/what-if-towerbound-aradiabot-is-a-giant-iron, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Tavros Nitram:
+		Title: Squire
+		Title origin: [Undocumented]
+		Species: 50% Cattle, 50% Troll (Bovus)
+		Height: 10ft
+		Grew from 3ft in the span of a year
+		Can grow when subjected to stress
+		Was cloned by Vriska but was too small to do anything with, so she often keeps him in her scepter as a familiar
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://thetiniestcancer.tumblr.com/post/84261611605/twisted-art-wounders-i-told-thetiniestcancer-i, Fanmail A
+	Tavros Nitram (alt):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Is tiny and trapped inside Vriska's scepter
+		Contradicts with future definition of Tavros
+		Sources: 
+	Sollux/Mituna Captor:
+		Title: Conjoined Naga
+		Title origin: twisted-art-wounders
+		Species: Snake (unknown species), Troll (percentages unknown)
+		Image: http://thetiniestcancer.tumblr.com/post/87842901310/twisted-art-wounders-towerbound-sollux-and
+		Height: 500ft
+		Length: 1000ft
+		Used to be Eridan's rival
+		Fused together after an accident
+		Source: http://thetiniestcancer.tumblr.com/post/87842901310/twisted-art-wounders-towerbound-sollux-and, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Karkat Vantas:
+		Title: Damsel in Distress, Lost Heir, Kidnapped Royal, Princess, Prince, Lost Prince
+		Title origin: Anon, thetiniestcancer
+		Species: 100% Troll
+		First word spoken: "ARE"
+		Images: http://thetiniestcancer.tumblr.com/post/84261015035/twisted-art-wounders-i-told-thetiniestcancer-i, http://thetiniestcancer.tumblr.com/post/84267170270/twisted-art-wounders-i-told-thetiniestcancer-i
+		Was adopted by the royal family (not biologically related)
+		Doesn't actually hate Terezi
+		Posesses latent energy equivelant to that of Ethereals
+		At inception: Has been locked up in a tower for as long as his memory serves
+		Sources: http://thetiniestcancer.tumblr.com/post/80710093397/fantasy-au-where-karkat-is-a-damsel-stuck-in-a-tower, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/81250644166/towerbound-terezi-gets-a-little-frisky-with-karkats, http://thetiniestcancer.tumblr.com/post/82405749103/towerbound-karkat-doesnt-actually-hate-terezi-like, http://thetiniestcancer.tumblr.com/post/87260744195/her-duchess-vampiric, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/91999598651/i-guess-thats-true-38-oh-well-and-on-that-note, http://themegamaryam.tumblr.com/post/92467748941/idk-if-this-has-been-answered-down-the-track-or-not
+	Nepeta Leijon:
+		Title: Puss in Boots, Nepeta in Boots
+		Title origin: [Undocumented]
+		Species: Cat, Troll (percentages undefined)
+		Height: 3ft
+		Age: 27 years
+		Image: http://thetiniestcancer.tumblr.com/post/84261131240/twisted-art-wounders-i-told-thetiniestcancer-i
+		First word spoken: "The"
+		Has cat ears and a tail
+		Wears boots
+		Can wield a Rapier
+		Is a bandim/hitman
+		Was raised by thieves after her parents abandoned her
+		Sent by Eridan to re-capture Karkat
+		Unrelated to the Disciple
+		Sources: http://thetiniestcancer.tumblr.com/post/81092965028/read-up-properly-on-the-suggestions-for-the-knight-and, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92008341991/tell-us-about-giant-cat-girl-meulin-3-would-she-and, http://themegamaryam.tumblr.com/post/92009609366/towerbound-nepeta-i-feel-like-i-should-know-stuff, http://themegamaryam.tumblr.com/post/92098848521/we-have-seen-shrekquius-and-ram-but-shrekquius-and
+	Kanaya Maryam:
+		Title: Vampiress, Dutchess, Her Dutchess Vampiric
+		Title origin: thetiniestcancer
+		Species: 100% Troll
+		Modifiers: Vampire
+		First word spoken: "Greetings"
+		Image: http://thetiniestcancer.tumblr.com/post/84267147510/twisted-art-wounders-i-told-thetiniestcancer-i
+		Grows in size/height by drinking blood
+		Dutchess of Marya
+		Crushed the dwelling of a corrupt politician
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/83675912746/what-if-towerbound-kanaya-grows-by-drinking-blood-she, http://themegamaryam.tumblr.com/post/83953888172/her-duchess-vampiric, http://themegamaryam.tumblr.com/post/88613431686/her-duchess-vampiric, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Terezi Pyrope:
+		Title: Dragon, The Dragoness, Guardian, Warden, Dragonrezi, Dragonbitch
+		Title origin: Anon, thetiniestcancer
+		Species: 50% Dragon, 50% Troll
+		First word spoken: "NOP3"
+		Image: http://twisted-art-wounders.tumblr.com/post/82519448531/karkat-sing-when-will-my-life-begin-from
+		Height (initial conditions): 700ft, 213.36m (1 Tower = up to navel)
+		Height (post Draconic Rising): Stupidly tall
+		Was originally a troll, but was enchanted and became half-dragon
+		Dislikes keeping Karkat locked up
+		Enjoys causing carnage
+		Gets bored when Karkat doesn't try and escape
+		Has destroyed multiple kingdoms
+		Has eaten sentient beings
+		Keeps a pile of loot from all the kingdoms she's destryed in her roost inside the catacombs
+		Grew to the point of the talest montain on the planet only coming up to her ankle following Karkat's escape
+		Some worship her as a divine being
+		Secondary/Tertiary Antagonist (variable)
+		Sources: http://thetiniestcancer.tumblr.com/post/80710093397/fantasy-au-where-karkat-is-a-damsel-stuck-in-a-tower, http://thetiniestcancer.tumblr.com/post/80726198870/did-the-math-dragonezi-is-700ft-tall, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/82405749103/towerbound-karkat-doesnt-actually-hate-terezi-like, http://thetiniestcancer.tumblr.com/post/83337216645/prompt-write-something-following-towerbound-terezi, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/83859615761/self-serving-towerbound-prompt-shrekquius-and-aradia, http://thetiniestcancer.tumblr.com/post/84476131485/terezis-romp, http://thetiniestcancer.tumblr.com/post/89303629555/draconian-rising, http://themegamaryam.tumblr.com/post/92467748941/idk-if-this-has-been-answered-down-the-track-or-not, http://themegamaryam.tumblr.com/post/92337531171/is-there-a-religious-sect-that-worship-terezi-as-a-bona
+	Vriska Serkat:
+		Title: The Spider Sorceress
+		Title origin: [Undocumented]
+		Species: ~ 5% Spider, ~95% Troll
+		First word spoken: "Oh"
+		Image: http://thetiniestcancer.tumblr.com/post/84261611605/twisted-art-wounders-i-told-thetiniestcancer-i
+		Primary antagonist
+		Has spider limbs protruding from their back
+		Keeps Tavros in her scepter
+		Sources: http://thetiniestcancer.tumblr.com/post/80794112266/so-towerbound-update-eridan-may-not-be-the-main, http://thetiniestcancer.tumblr.com/post/81740526245/towerbound-karkat-tries-using-the-arcane, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/84261611605/twisted-art-wounders-i-told-thetiniestcancer-i
+	Equius Zahhak:
+		Title: Shrekquius
+		Title origin: equiusmacrostufffollow
+		Species: 100% Ogre
+		First word spoken: "Cease"
+		Image: http://thetiniestcancer.tumblr.com/post/87244446510/twisted-art-wounders-8-d-you-are-pretty-to
+		Image (alt): http://thetiniestcancer.tumblr.com/post/87247890675/equiusmacrostufffollow-he-is-glorious-im
+		Was forced out of his swamp by Eridan
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/81092965028/read-up-properly-on-the-suggestions-for-the-knight-and, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/83859615761/self-serving-towerbound-prompt-shrekquius-and-aradia, http://equiusmacrostufffollow.tumblr.com/post/88606789934/some, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92098848521/we-have-seen-shrekquius-and-ram-but-shrekquius-and
+	Gamzee Makara:
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Troll
+		Youngest boy of the royal household
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Eridan Ampora:
+		Title: Wizard, wwizard, Arcane Scientist
+		Title origin: hs-ramblings/inhibitionsnullandvoid
+		Species: 100% Troll
+		First word spoken: "all"
+		Image: http://thetiniestcancer.tumblr.com/post/84261015035/twisted-art-wounders-i-told-thetiniestcancer-i
+		Karkat percieves him as evil and having bad thoughts
+		Tosses rejected/failed experiments into the catacombs
+		Thinks he is on the verge of power and wealth, but is merely a subordinate to Vriska
+		Hired Nepeta to re-capture Karkat
+		Secondary/Tertiary Antagonist (variable)
+		Sources: http://thetiniestcancer.tumblr.com/post/80713354451/hs-ramblings-said-obviously-eridan-is-the, http://thetiniestcancer.tumblr.com/post/80722747131/you-may-now-conveniently-find-that-au-tagged-as, http://thetiniestcancer.tumblr.com/post/80794112266/so-towerbound-update-eridan-may-not-be-the-main, http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/81740526245/towerbound-karkat-tries-using-the-arcane, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://thetiniestcancer.tumblr.com/post/83859615761/self-serving-towerbound-prompt-shrekquius-and-aradia, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92098848521/we-have-seen-shrekquius-and-ram-but-shrekquius-and
+	Feferi Peixes:
+		Title: Giant Kraken
+		Title origin: [Undocumented]
+		Species: Troll, Kraken/Endrich monster (percentages unknown)
+		Height: 800ft (variable with the tides, amplified by how stormy the weather is)
+		Was a daughter of the royal family, but was exiled after transforming into a Kraken
+		Transformation was kickstarted by her proximity to Karkat
+		Has dual mermaid tails
+		Seaweed hair
+		Skin flushed her blood colour
+		Scales on her sides
+		Torso is bioliminescent
+		During storm:
+			Skin darkens, bioluminescence amplifies
+			Has no regard for the lives of mortals
+			(implied immortality?)
+		Forgets who she is and becomes a true monster around the time of high tide, or on a full moon
+		Even when she's her normal self she rarely allows a captured vessel to leave her grasp
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the, http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/91994335701/has-anything-more-been-discussed-about, http://themegamaryam.tumblr.com/post/91996085356/well-i-wouldnt-imagine-shed-wander-around-on-land, http://themegamaryam.tumblr.com/post/91997562666/hmmm-i-like-that-appearance-pretty-much-id, http://themegamaryam.tumblr.com/post/91998096001/whoa-yeah-thats-awesome-38d-and-that-sounds, http://themegamaryam.tumblr.com/post/91999598651/i-guess-thats-true-38-oh-well-and-on-that-note, http://themegamaryam.tumblr.com/post/92000981201/giantessfeferi-said-yeah-that-sounds-good, http://themegamaryam.tumblr.com/post/92001808466/yesssssssssssss-definitely-having-her-being-able-to, http://themegamaryam.tumblr.com/post/92162766311/oh-yeah-we-should-probably-decide-what-sort-of
+	Alpha John (possibly Sassacre):
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Human
+		Was the one who brought wealth to the Egbert family
+		Sources: http://themegamaryam.tumblr.com/post/91986775761/what-about-towerbound-alpha-john-whats-his-backstory
+	Mom Lalonde (to Rose):
+		Title: Godmom
+		Title origin: themegamaryam
+		Species: 100% Human
+		Wealthy aristocrat
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, http://themegamaryam.tumblr.com/post/92471146246/what-is-the-status-of-science-and-technolgy-in
+	Bro Strider:
+		Title: Knight (Retired)
+		Title origin: [Undocumented]
+		Species: 100% Human
+		Sources: http://thetiniestcancer.tumblr.com/post/81234298803/towerbound-cast-thus-far-more-karkat, http://thetiniestcancer.tumblr.com/post/83670254140/if-you-dont-mind-me-asking-could-you-summarize-the
+	Becquerel:
+		Title: Forest Spirit
+		Title origin: [Undocumented]
+		Species: 100% Spirit
+		Lives in the forest
+		Posesses immense power
+		Befriened Jade at an early age
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	God Cat:
+		Title: Spirit Elemental
+		Title origin: [Undocumented]
+		Species: 100% Elemental
+		Wanders the world
+		Seems to be attracted to wherever Jane is
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Doc Scratch:
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Spirit
+		Incredibly intelligent
+		Resides in a clouded crystal ball
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Canon Fan-Trolls:
+		Title: [Undefined]
+		Tilte origin: [Undefined]
+		Species: 100% Troll
+		Random civilians that keep being in the wrong place at the wrong time
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Ms. Paint:
+		Title: The First Carapace
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Ony Carapace ever to venture beyond the Carapace continent
+		Ruled over both the black and white caparapces at one stage
+		Abandoned her post after the two began feuding
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Black Queen:
+		Title: Monarch of the Black Kingdom
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Is genereally considered to be wicked
+		Taller and more muscular than WQ
+		Black kingdom is warmongering by nature
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Black King:
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Carapace
+		Was the husband of the Black Queen
+		Died in a confrontation with the White King
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	White Queen:
+		Title: Monarch of the White Kingdom
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Is generally considered to be benevolent
+		Chubbier than BQ
+		White kingdom is peaceful by nature
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	White King:
+		Title: [Undefined]
+		Title origin: [Undefined]
+		Species: 100% Carapace
+		Was considered to be timid
+		Was the husband of the White Queen
+		Died in a confrontation with the Black King
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Wayward Vagabond/Warweary Villein/Wizardly Vassal:
+		Title: Prime Minister of the White Kingdom
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Manages day-to-day activities of the white kingdom
+		Only black carapace in the white kingdom
+		Name listed in "The Complete Towerbound Character List" is wrong (Wandering Vagabond)
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Parcel Mistress/Peregrine Mendicant:
+		Title: Head of Communications
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Former scout and spy
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Aimless Renegade/Authority Regulator:
+		Title: High Judge of the Black Kingdom
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Only non-corrupt member of government in the whole kingdom
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	Jack Noir/Spades Slick/Scurrilous Straggler:
+		Title: Head of the Midnight Crew
+		Title origin: [Undocumented]
+		Species: 100% Carapace
+		Midnight Crew is a squad of guerilla soldiers (possible misuse of word: maybe special operations squad would be better?)
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+	The Midnight Crew:
+		Title: The Midnight Crew (obviously)
+		Title origin: Whoever sent in the donation that spawned those Problem Sleuth secret pages
+		Species: 100% Carapace
+		Perform secret missions of high importance
+		Sources: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list, Problem Sleuth secret pages, Homestuck canon
+	The Felt:
+		Tithe: The Felt (also obviously)
+		Title origin: Andrew Hussie
+		Species: 100% Spirit
+		Each member was once a troll or human, transformed into a spirit by latent magical energy
+		Each are tied to certain objects corresponding to those they identify with in canon
+		Anyone who beats their "games" gains the reward of a great intelligent spirit (Doc Scratch)
+		Sources: http://themegamaryam.tumblr.com/post/92012576746/towerbound-felt, Homestuck canon
+	Andrew Hussie:
+		Title: Some Crazy Old Coot
+		Title origin: themegamaryam
+		Species: 100% Human
+		Is called old despite only being in his 30s
+		Lives in a small hut outside a small town
+		Likes to say ominous things
+		Ramblings are made into works of fiction
+		Works at a horse ranch
+		Sources: http://themegamaryam.tumblr.com/post/92010651671/the-world-must-know-of-the-glory-of-towerbound-andrew
+	FedoraFreak:
+		Title: Stern Hat Dealer
+		Title origin: themegamaryam
+		Species: 100% Human
+		Resides in the capital city
+		Biggest customer: John's father
+		Sources: http://themegamaryam.tumblr.com/post/92169805716/towerbound-fedorafreak, http://themegamaryam.tumblr.com/post/92170902856/fine-towerbound-stern-hat-dealer-if-you-please
+	OCs:
+		Tarken Golgec:
+			Title: [Undefined]
+			Title origin: [Undefined]
+			Species: 100% Troll
+			First word spoken: "WhAt"
+			Is a trapper
+			Singularly obsessed with trapping Meulin
+			Eaten by Meulin, along with his cohort
+			Sources: http://themegamaryam.tumblr.com/post/92188793481/prompt-tower-bound-meulin-goes-on-a-hunt-for
+		Civilian #427:
+			Title: Stanley
+			Title origin: Galactic Cafe
+			Species: 100% Mute player character
+			Is a blacksmith
+			Lives in the town of Inhib
+			Genderbent from original source
+			Sources: http://themegamaryam.tumblr.com/post/92263434856/i-would-like-to-know-more-about-random-towerbound, The Stanley Parable
+
+Path to Karkat's tower:
+	Flanked by semi-active volcanos
+	Located in the fertile alnd in their shadow
+	Rope bridge over pit of boiling lava
+	Armoured walls tipped with spikes and laced with traps
+	Horde of undead skeletons
+	Terezi Pyrope
+	Situated on a 30ft hill
+	Sources: http://thetiniestcancer.tumblr.com/post/80710093397/fantasy-au-where-karkat-is-a-damsel-stuck-in-a-tower, http://thetiniestcancer.tumblr.com/post/83122729153/towerbound-karkat-tell-us-about-the-castle-you-live, http://thetiniestcancer.tumblr.com/post/81740526245/towerbound-karkat-tries-using-the-arcane, http://thetiniestcancer.tumblr.com/post/83859615761/self-serving-towerbound-prompt-shrekquius-and-aradia
+	Facilities:
+		Courtyard, Kitchen, Barracks, Throne Room, Studies, Bedroom, Catacombs, Alchemy Lab
+		(Note: Catacombs run throughout the kingdom)
+	Tower height: 70ft
+
+First time AU is named: http://thetiniestcancer.tumblr.com/post/80714337895/themegamaryam-said-i-think-a-tag-would-be-good
+First art piece: http://twisted-art-wounders.tumblr.com/post/82519448531/karkat-sing-when-will-my-life-begin-from
+First RP: http://thetiniestcancer.tumblr.com/post/83929682641/her-duchess-vampiric
+The postal service of the kingdon is wondorous and legendary (http://twisted-art-wounders.tumblr.com/post/82519448531/karkat-sing-when-will-my-life-begin-from)
+Fics:
+	http://thetiniestcancer.tumblr.com/post/80710093397/fantasy-au-where-karkat-is-a-damsel-stuck-in-a-tower (Karkat, Terezi)
+	http://thetiniestcancer.tumblr.com/post/81250644166/towerbound-terezi-gets-a-little-frisky-with-karkats (Karkat, Terezi)
+	http://thetiniestcancer.tumblr.com/post/81740526245/towerbound-karkat-tries-using-the-arcane (Karkat, Vriska, Eridan)
+	http://thetiniestcancer.tumblr.com/post/83122729153/towerbound-karkat-tell-us-about-the-castle-you-live (Karkat, Terezi)
+	http://thetiniestcancer.tumblr.com/post/83337216645/prompt-write-something-following-towerbound-terezi (Terezi)
+	http://thetiniestcancer.tumblr.com/post/84476131485/terezis-romp (Terezi)
+	http://thetiniestcancer.tumblr.com/post/88335617680/the-birth-of-the-pantheon (just check for every god except Alpha Jade)
+	http://thetiniestcancer.tumblr.com/post/83859615761/self-serving-towerbound-prompt-shrekquius-and-aradia (Aradia, Karkat, Terezi, Equius)
+	http://thetiniestcancer.tumblr.com/post/89303629555/draconian-rising (Terezi, Vriska)
+	http://thetitaniczahhak.tumblr.com/post/90055187567/prompt-towerbound-horuss-stumbles-across-a-village (Horuss)
+	http://thetiniestcancer.tumblr.com/post/90488299465/the-goddess-of-harvest (Alpha Jade, The Psiioniic (pantheon), The Signless (pantheon))
+	http://themegamaryam.tumblr.com/post/92098848521/we-have-seen-shrekquius-and-ram-but-shrekquius-and (Aradia, Nepeta, Equius)
+	http://themegamaryam.tumblr.com/post/92188793481/prompt-tower-bound-meulin-goes-on-a-hunt-for (Meulin, Tarken Golgec)
+	http://themegamaryam.tumblr.com/post/92565968651/towerbound-prompt-it-is-from-their-foes-not-their (Terezi)
+
+Art:
+	http://twisted-art-wounders.tumblr.com/post/82519448531/karkat-sing-when-will-my-life-begin-from (Karkat, Terezi)
+	http://thetiniestcancer.tumblr.com/post/83638934785/twisted-art-wounders-towerbound-terzei-for-ya (Terezi)
+	http://thetiniestcancer.tumblr.com/post/84260492910/twisted-art-wounders-das-butt (Terezi)
+	http://thetiniestcancer.tumblr.com/post/84261015035/twisted-art-wounders-i-told-thetiniestcancer-i (Karkat, Eridan)
+	http://thetiniestcancer.tumblr.com/post/84261131240/twisted-art-wounders-i-told-thetiniestcancer-i (Aradia, Nepeta)
+	http://thetiniestcancer.tumblr.com/post/84261611605/twisted-art-wounders-i-told-thetiniestcancer-i (Vriska)
+	http://thetiniestcancer.tumblr.com/post/84267147510/twisted-art-wounders-i-told-thetiniestcancer-i (Kanaya)
+	http://thetiniestcancer.tumblr.com/post/84267170270/twisted-art-wounders-i-told-thetiniestcancer-i (Karkat)
+	http://twisted-art-wounders.tumblr.com/post/87837278612/towerbound-sollux-and-mituna-are-joined-negas (Sollux, Mituna)
+	http://thetiniestcancer.tumblr.com/post/87138972265/twisted-art-wounders-darn-it-all (Darkleer (mortal))
+	http://thetiniestcancer.tumblr.com/post/87244483065/twisted-art-wounders-that-darn-dragon-gonna (Karkat, Terezi)
+	http://thetiniestcancer.tumblr.com/post/87247890675/equiusmacrostufffollow-he-is-glorious-im (Equius)
+	http://themegamaryam.tumblr.com/post/87251900026/twisted-art-wounders-and-ogre-equius-he-never (Equius)
+	http://themegamaryam.tumblr.com/post/87444904791/twisted-art-wounders-perspective-improving (Terezi)
+	http://thetiniestcancer.tumblr.com/post/87842876265/twisted-art-wounders-someone-wanted-to-see (Terezi)
+	http://themegamaryam.tumblr.com/post/88435989071/thetitaniczahhak-fan-art-for-the-current-rp (Kanaya, Terezi)
+	http://themegamaryam.tumblr.com/post/88528725131/twisted-art-wounders-towerbound-horuss-actually (Horuss)
+	http://themegamaryam.tumblr.com/post/88718944196/fat-dragonrezi-with-a-belly-full-of-prey (Terezi)
+	http://thetiniestcancer.tumblr.com/post/89077141955/could-you-draw-towerbound-alpha-rose-the-one (Alpha Rose)
+	http://thetiniestcancer.tumblr.com/post/89077154595/pallet-3-towerbound-vriska-and-dragonrezi (Terezi, Vriska)
+	http://themegamaryam.tumblr.com/post/90273234406/if-youre-willing-to-do-so-towerbound (Terezi)
+	http://thetiniestcancer.tumblr.com/post/90506936810/twisted-art-wounders-someone-asked-for-al-3-of (Karkat, Latula, Horuss)
+
+RPs:
+	Her Duchess Vampiric (Karkat, Kanaya, Terezi) [http://thetiniestcancer.tumblr.com/post/83929682641/her-duchess-vampiric]
+	Some (Karkat, Terezi, Equius) [http://equiusmacrostufffollow.tumblr.com/post/88537400494/some]
+
+Named locations:
+	Karkat's tower
+	Marya (village) [http://thetiniestcancer.tumblr.com/post/83929682641/her-duchess-vampiric]
+		Ispum Exchange takes place annually - is a trade event [http://themegamaryam.tumblr.com/post/84682975351/her-duchess-vampiric]
+		Unintentional misspelled reference to "lorum ipsum" (Src: http://themegamaryam.tumblr.com/post/92515197531/is-the-ispum-exchange-a-reference-to-this)
+	Dosluc (royal city, but not THE royal city) [http://thetiniestcancer.tumblr.com/post/84476131485/terezis-romp]
+	Nuldae (village) [http://thetiniestcancer.tumblr.com/post/88635512590/mom-rose-introduces-some-pesky-bandits-to-feet]
+		Unmarked on most maps
+	Inhib (town) [http://themegamaryam.tumblr.com/post/92263434856/i-would-like-to-know-more-about-random-towerbound]
+Tech:
+	Arcus (crossbow/projectile launcher) [http://thetiniestcancer.tumblr.com/post/84476131485/terezis-romp]
+	Following all sourced from http://themegamaryam.tumblr.com/post/92471146246/what-is-the-status-of-science-and-technolgy-in
+		Main focus continent: Medieval era tech
+		Alpha Rose's village posesses cameras
+		Alchemists and mages have knowledge of chemistry and biology, as well as evolution
+		The White-Lands has not proceeded past ancient era tech
+		Prosula (civilization) has steampunk tech, but they died off. Jadebot and Aradiabot are remnants
+		Carapacian continent has slightly better tech then the main continent
+Continents:
+	Main
+	Carapace
+	The White-Lands
+	Src: http://themegamaryam.tumblr.com/post/92471146246/what-is-the-status-of-science-and-technolgy-in
+Main races:
+	Trolls
+	Humans
+	Prosula (extinct)
+Royal family birth order:
+	Meenah (36)
+	Kurloz (33)
+	Gamzee (29)
+	Feferi (24)
+	Karkat (24, adopted)
+	Src: http://themegamaryam.tumblr.com/post/89019698616/the-complete-towerbound-character-list
+
+Anomalous data:
+	Robots have feelings: http://themegamaryam.tumblr.com/post/92169907261/do-mechanical-automatons-powered-by-coal-and-steam-have
+	Troll kingdom descriptor is Trollian
+	There is a kingdom of Carapaces
+	Hemospectrum:
+		Not a social construct
+		Affects lifespan and psionics as per normal, with offset of (lifespan + 28) (lowest caste lives as long as a human)
+		Highbloods do not have a higher chance of seizing power
+		Src: http://themegamaryam.tumblr.com/post/92001515016/does-the-hemospectrum-exist-in-towerbound, Fanmail B
+	Universe map: http://media.tumblr.com/dcec899ee1f85fbfbda7ca66828519dd/tumblr_inline_n96ur7XT0P1srze2e.png
+	Description:
+		My shitty drawing skills aside, this is what the towerbound universe and all of it’s various planes look like in relation to each other, although they are not necessarily to 100% scale.
+		The actual universe is the large blue orb in the center, while the 12 god’s personal planes exist outside of that orbiting like moons. The black emptiness in between each plane is actually the “domain” of Rose, as she takes claim over all of the void between each one.
+		The red ring around each plane is owned by caliborn and is quite larger than any of the trolls or humans as his roles require more space for defaulted sinners who didn’t claim an afterlife beforehand.
+		The vast green plane outside all others belongs to calliope; hers is far larger than everyone else’s combined to an extent not even accurate in this image, both because she has more souls than most in her afterlife and also because as the goddess of space and matter she has a lot of space naturally. In fact her physical body is larger than any single thing in existence, and she must make avatars to enter other planes on her behalf because she couldn’t get small enough to enter on her own even if she tried.
+		Jade, having ascended after the gods were already formed, did not have her own plane at first; but Calliope granted her a small chunk of her own realm to her.
+		The tiny white bubble around the others is not owned by any one deity, but serves two purposes as both the intermediary for traveling souls before they reach their correct afterlife, and the meeting area for the gods. 
+
+
