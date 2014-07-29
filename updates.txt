@@ -12,6 +12,8 @@ Ideas:
 	Add a relevant quote to each character's page? (see "quotes" branch)
 	"Go back" button might need to be smaller?
 	Variable table colours based on the character?
+BUGS:
+	<img href=''> is not a valid construct
 To-do:
 	Re-order character page so that the info table appears to the right of the descriptive text
 	Try an anti-aliased "go back" button
