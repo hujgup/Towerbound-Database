@@ -99,3 +99,12 @@ No, mutants aren’t subject to much more stigma then say someone who’s double
 
 Fanmail F:
 ((Probably geocentric, as the world was the primary focus of the gods when they made the universe.))
+
+Ask Tree A:
+INAV: 5000 miles you say? But the Earth's exosphere terminates at 480km, so 3218688/480000 * 100 = the planet's atmosphere is 670.56% taller than Earth's. Without an increase in air pressure, this would mean the planet's mass must be smaller than Earth's, which considering it's meant to be 2x Earth's radius seems odd. Even if mass is the same as Earth's, density seems suspect: p = m/((4*pi*r^3)/3) gives bogus values.
+MM: What explanation would you give yourself to fix the issue? Maybe the gods never “programmed” the void to be unbreathable?
+INAV: As for the atmospheric height thing, there's a number of ways we could solve it.
+	1: Terezi doesn't need air - she photosynthesizes, like plants do. In addition, her thick skin/scales/whatever prevents the pressure difference from ripping her apart.
+	2: The atmosphere doesn't get thinner with altitude, but instead extends all throughout the mortal plane.
+	3: Through magic, Terezi is surrounded by a layer of air at ASL pressure at all times, i.e. a spacesuit without the suit.
+MM: I like the third one, if you don't mind i'll go retcon that into canon.
