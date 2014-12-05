@@ -100,6 +100,9 @@ No, mutants aren’t subject to much more stigma then say someone who’s double
 Fanmail F:
 ((Probably geocentric, as the world was the primary focus of the gods when they made the universe.))
 
+Fanmail G:
+I would guess her stomach has similar fortitude like her skin does, and a dragons stomach acid would probably be hotter and more powerful then other beings; maybe strong enough to quickly neutralize anything left alive.
+
 Ask Tree A:
 INAV: 5000 miles you say? But the Earth's exosphere terminates at 480km, so 3218688/480000 * 100 = the planet's atmosphere is 670.56% taller than Earth's. Without an increase in air pressure, this would mean the planet's mass must be smaller than Earth's, which considering it's meant to be 2x Earth's radius seems odd. Even if mass is the same as Earth's, density seems suspect: p = m/((4*pi*r^3)/3) gives bogus values.
 MM: What explanation would you give yourself to fix the issue? Maybe the gods never “programmed” the void to be unbreathable?
